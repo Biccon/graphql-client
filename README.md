@@ -1,1 +1,1 @@
-# graphql-client
+# MovieQL-Client
